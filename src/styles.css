@@ -1,0 +1,16 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --brand-dark:#1E1E1E;
+  --brand-mid:#b8b8b8;
+  --brand-light:#848383;
+  --shape1:#378832;
+  --shape2:#861F1F;
+  --shape-border:#949393;
+  --bg:#F3F3F3;
+}
+
+body{ background-color: var(--bg); color: var(--brand-dark); }
